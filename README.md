@@ -31,12 +31,11 @@ JavaScript (ES6) – Logic & date calculations
 
 Add a screenshot of the project after deployment
 
-![Age Calculator Preview](screenshot.png)
 
 🌍 Live Demo
 
 🔗 GitHub Pages:
-https://anasgouda475.github.io/Age-Calculator/
+[https://anasgouda475.github.io/Age-Calculator/](https://anasgouda475-png.github.io/Age-Calculator/)
 
 📂 Project Structure
 Age-Calculator/
@@ -55,7 +54,7 @@ JavaScript calculates the difference between the current date and the selected d
 The age is displayed instantly in years (and optionally months & days)
 
 ▶️ Run Locally
-git clone https://github.com/anasgouda475/Age-Calculator.git
+[git clone https://github.com/anasgouda475/Age-Calculator.git](https://anasgouda475-png.github.io/Age-Calculator/)
 cd REPO_NAME
 open index.html
 
@@ -74,8 +73,6 @@ open index.html
 Anas Gouda
 
 GitHub: https://github.com/anasgouda475
-
-Portfolio: (optional)
 
 ⭐ Support
 
